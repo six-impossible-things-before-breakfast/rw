@@ -1,0 +1,4 @@
+test/build/.vs/
+test/build/x64/
+test/build/test.vcxproj.filters
+test/build/test.vcxproj.user
